@@ -10,7 +10,7 @@ Hola, I'm Kalyani Borkar! 👋
 
 💬 Ask me about java, blockchain or network security
 
-📫 How to reach me: Linkedin - https://www.linkedin.com/in/kalyani-borkar  , TechGig - https://www.techgig.com/myprofile#user-about 
+📫 How to reach me: Linkedin - https://www.linkedin.com/in/kalyani-borkar/, TechGig - https://www.techgig.com/myprofile#user-about 
 
 😄 Pronouns: She/Her
 
